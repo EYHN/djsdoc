@@ -2,7 +2,7 @@
 
 Simple JSDoc parser. parses jsdoc string to json. 
 
-(You need to pass in the comment, not a whole JavaScript file).
+(You need to pass in the comment, not a whole JavaScript file, you can use [jsdoc-regex](https://github.com/neogeek/jsdoc-regex) to matching the JSDoc in a JavaScript file).
 
 ## Installation
 You can install djsdoc using npm:
