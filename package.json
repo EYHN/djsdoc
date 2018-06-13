@@ -1,0 +1,15 @@
+{
+  "name": "djsdoc",
+  "version": "1.0.0",
+  "main": "djsdoc.js",
+  "repository": "https://github.com/EYHN/djsdoc.git",
+  "author": "eyhn <cneyhn@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --config jest.json"
+  },
+  "devDependencies": {
+    "jest": "^23.1.0"
+  },
+  "dependencies": {}
+}
