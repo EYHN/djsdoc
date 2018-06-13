@@ -8,7 +8,7 @@ Simple JSDoc parser. parses jsdoc string to json.
 You can install djsdoc using npm:
 
 ```
-$ npm install djsdoc --save-dev
+$ npm install djsdoc
 ```
 
 ## Usage
