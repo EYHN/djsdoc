@@ -11,5 +11,5 @@
   "devDependencies": {
     "jest": "^23.1.0"
   },
-  "dependencies": {}
+  "types": "djsdoc.d.ts"
 }
